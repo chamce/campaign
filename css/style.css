@@ -5,3 +5,7 @@ html, body {
 .card {
     border: none;
 }
+
+.icon {
+    width: 30px;
+}
